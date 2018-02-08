@@ -1,0 +1,48 @@
+.od{
+
+}
+.od-content{
+	max-width: 400px;
+	margin: 0 auto;
+}
+.od .od-form-open{
+	padding:  0 15px;
+	margin: 10px;
+	border: 1px solid #44aa88;
+}
+.opdo a.button, #od-form-open .od-button{
+	clear: both;
+	text-align: center;
+	background: #44aa88;
+	color: #fff;
+	padding: 10px 40px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 5px;
+	text-decoration: none!important;
+}
+.opdo a:hover, #od-form-open .od-button:hover{
+	text-decoration: none;
+	background: #118844;
+}
+#od-admin-table td{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.od-open{
+	background: #44aa88;
+}
+.od-open h1{
+	font-size: 50px;
+	color: #fff;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	text-align: center;
+}
+.od-front-page{
+	text-align: center;
+}
+#masthead.site-header{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
